@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T19:35:30.148Z" agent="5.0 (Windows)" etag="5kbyc3U_-gz778-XjS6x" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-13T19:43:43.400Z" agent="5.0 (Windows)" etag="ZNu8SdSN_U_P-TQtMW8o" version="17.4.3" type="github">
   <diagram id="AwQgiTbu9Bw1cx0Kdg-x" name="Page-1">
     <mxGraphModel dx="1116" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -80,7 +80,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wkAVa-7YM3MRuRVqWaLZ-54" value="&amp;laquo;Annotation&amp;raquo;&lt;br/&gt;&lt;b&gt;Component&lt;/b&gt;" style="html=1;dropTarget=0;fontSize=15;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="wkAVa-7YM3MRuRVqWaLZ-54" value="&lt;div&gt;&lt;b&gt;ASSOCIAÇÃO&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;Entre dois objetos &lt;/font&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;ocorre quando &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;eles são completamente &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;independentes entre si mas &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;eventualmente estão relacionados &lt;/font&gt;&lt;/div&gt;" style="html=1;dropTarget=0;fontSize=15;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="10" y="15" width="280" height="155" as="geometry" />
         </mxCell>
         <mxCell id="wkAVa-7YM3MRuRVqWaLZ-55" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontSize=15;" vertex="1" parent="wkAVa-7YM3MRuRVqWaLZ-54">
@@ -88,7 +88,7 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wkAVa-7YM3MRuRVqWaLZ-57" value="&amp;laquo;Annotation&amp;raquo;&lt;br/&gt;&lt;b&gt;Component&lt;/b&gt;" style="html=1;dropTarget=0;fontSize=14;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="wkAVa-7YM3MRuRVqWaLZ-57" value="&lt;div&gt;&lt;b&gt;AGREGAÇÃO&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;left: 141.833px ; top: 638.023px ; font-family: sans-serif ; transform: scalex(0.996544)&quot; dir=&quot;ltr&quot;&gt;É um caso particular da associação. &lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;left: 141.833px ; top: 638.023px ; font-family: sans-serif ; transform: scalex(0.996544)&quot; dir=&quot;ltr&quot;&gt;A agregação indica que uma das &lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;left: 141.833px ; top: 638.023px ; font-family: sans-serif ; transform: scalex(0.996544)&quot; dir=&quot;ltr&quot;&gt;classes do&lt;/span&gt;&lt;span style=&quot;left: 141.833px ; top: 656.356px ; font-family: sans-serif ; transform: scalex(0.996393)&quot; dir=&quot;ltr&quot;&gt; relacionamento é uma parte, &lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;left: 141.833px ; top: 656.356px ; font-family: sans-serif ; transform: scalex(0.996393)&quot; dir=&quot;ltr&quot;&gt;ou está contida em outra classe.&lt;/span&gt;&lt;/div&gt;" style="html=1;dropTarget=0;fontSize=14;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="530" y="10" width="270" height="150" as="geometry" />
         </mxCell>
         <mxCell id="wkAVa-7YM3MRuRVqWaLZ-58" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontSize=14;" vertex="1" parent="wkAVa-7YM3MRuRVqWaLZ-57">
