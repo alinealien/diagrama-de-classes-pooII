@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T19:30:49.737Z" agent="5.0 (Windows)" etag="xx7szQHaclPREQpT4M-d" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-13T19:35:30.148Z" agent="5.0 (Windows)" etag="5kbyc3U_-gz778-XjS6x" version="17.4.3" type="github">
   <diagram id="AwQgiTbu9Bw1cx0Kdg-x" name="Page-1">
     <mxGraphModel dx="1116" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -80,7 +80,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wkAVa-7YM3MRuRVqWaLZ-54" value="&amp;laquo;Annotation&amp;raquo;&lt;br/&gt;&lt;b&gt;Component&lt;/b&gt;" style="html=1;dropTarget=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="wkAVa-7YM3MRuRVqWaLZ-54" value="&amp;laquo;Annotation&amp;raquo;&lt;br/&gt;&lt;b&gt;Component&lt;/b&gt;" style="html=1;dropTarget=0;fontSize=15;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="10" y="15" width="280" height="155" as="geometry" />
         </mxCell>
         <mxCell id="wkAVa-7YM3MRuRVqWaLZ-55" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontSize=15;" vertex="1" parent="wkAVa-7YM3MRuRVqWaLZ-54">
@@ -88,13 +88,25 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wkAVa-7YM3MRuRVqWaLZ-57" value="&amp;laquo;Annotation&amp;raquo;&lt;br/&gt;&lt;b&gt;Component&lt;/b&gt;" style="html=1;dropTarget=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="wkAVa-7YM3MRuRVqWaLZ-57" value="&amp;laquo;Annotation&amp;raquo;&lt;br/&gt;&lt;b&gt;Component&lt;/b&gt;" style="html=1;dropTarget=0;fontSize=14;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="530" y="10" width="270" height="150" as="geometry" />
         </mxCell>
         <mxCell id="wkAVa-7YM3MRuRVqWaLZ-58" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontSize=14;" vertex="1" parent="wkAVa-7YM3MRuRVqWaLZ-57">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wkAVa-7YM3MRuRVqWaLZ-59" value="1...*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="310" y="193" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wkAVa-7YM3MRuRVqWaLZ-60" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="107" y="286" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wkAVa-7YM3MRuRVqWaLZ-61" value="1...20" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="663" y="288" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wkAVa-7YM3MRuRVqWaLZ-64" value="1...5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="483" y="194" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
